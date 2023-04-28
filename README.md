@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi, im Moisesms</h2>
 
 <!--
 **moisesms0/moisesms0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Skills </h2>
+<h2 >Skills </h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,react,php,wordpress,python,vscode" />
   </a>
