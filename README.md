@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,react,php,wordpress,python,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,php,wordpress,python,vscode" />
   </a>
 </p>
