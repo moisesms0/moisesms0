@@ -8,6 +8,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,php,wordpress,bootstrap,java,eclipse,python,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,php,wordpress,bootstrap,java,eclipse,python,vscode,kotlin,cs,bash,bots" />
   </a>
 </p>
