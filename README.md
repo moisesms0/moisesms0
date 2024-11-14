@@ -5,6 +5,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,php,wordpress,bootstrap,java,eclipse,python,vscode,kotlin,cs,bash,bots" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,eclipse,kotlin,androidstudio,python,react,html,js,php,wordpress,tailwind,bash,bots" />
   </a>
 </p>
