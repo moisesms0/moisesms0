@@ -1,8 +1,5 @@
 <h2>Hi, im Moisesms</h2>
-<p>Im a junior web developer learning new technologies.</p>
-
-- 🔭 I’m studying web development
-- 🌱 I’m currently learning React JS and Node JS
+<p>Im a Junior Software Developer learning new technologies.</p>
 
 <h2 >Skills </h2>
 
