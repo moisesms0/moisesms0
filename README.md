@@ -4,9 +4,11 @@ I'm a **Software Developer** currently working at **TicMoveo**, a company focuse
 
 ### 🌍 What I Do
 - Develop and maintain international **RFID** projects for transportation and mobility systems.
+- Build **internal applications for enterprise management** to improve operational efficiency.
 - Use technologies like:
-  - **.NET** for FullStack development
-  - **Android Studio** for building solutions on **Android-based readers and validators**
+  - **.NET** for desktop applications
+  - **Android Studio** for building solutions on **Android-based readers and validators**.
+  - **Oracle APEX** for rapid development of complex web applications for enterprise use.
 
 ### 🛠️ Technologies & Tools
 - **Languages**: C#, Java, Kotlin, SQL
@@ -15,7 +17,7 @@ I'm a **Software Developer** currently working at **TicMoveo**, a company focuse
 
 ### 🎯 Goals & Interests
 - Building efficient, scalable applications that address real-world challenges in the transportation sector.
-- Expanding my skills in **IoT**, **mobile development**, and **backend systems**.
+- Expanding my skills in **IoT**, **enterprise software**, and **desktop application development**.
 
 Thanks for visiting my profile! I’m always excited to connect with other developers and tech enthusiasts, so feel free to reach out.
 
